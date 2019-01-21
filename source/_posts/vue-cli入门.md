@@ -68,9 +68,6 @@ categories: 前端
     ![](http://upload-images.jianshu.io/upload_images/5700710-547eb7db1fbff32f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-## webex-cli
-[webex-cli](https://github.com/tangwenixng/webex-cli) 这是我用vue-cli搭建的一个项目，基本功能都覆盖了，放在github上。
-
 
 [参考--vue-cli入门（二）——项目结构](http://www.jianshu.com/p/7006a663fb9f)
 

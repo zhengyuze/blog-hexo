@@ -54,6 +54,12 @@ search:
   path: search.xml
   field: post
 
+wordCount:
+  enable: false # 将这个值设置为true即可.
+  postWordCount: true
+  min2read: true
+  totalCount: true
+
 permalink_pinyin:
   enable: true
   separator: '-' # default: '-'

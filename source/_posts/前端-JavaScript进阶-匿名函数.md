@@ -3,7 +3,7 @@ date: 2019-01-23 15:25:09
 categories: 前端
 tags: JavaScript
 description: 本文介绍JavaScript中的匿名函数用法。
-cover_img: http://qiniucdn.timilong.com/1543736929827.jpg
+img: http://qiniucdn.timilong.com/1543736929827.jpg
 ---
 
 ![tu](http://qiniucdn.timilong.com/1543736929827.jpg)

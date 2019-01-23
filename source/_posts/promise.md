@@ -1,6 +1,6 @@
 ---
 title: Promise
-date: 2017-12-08 23:02
+date: 2019-01-21 23:02
 tags:
 - javascript
 categories:

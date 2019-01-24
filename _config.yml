@@ -75,7 +75,7 @@ live2d:
     width: 100
     height: 210
   mobile:
-    show: true
+    show: false
 
 permalink_pinyin:
   enable: true

@@ -27,11 +27,11 @@ live2d:
     show: false  #是否在手机进行显示
 ```
 
-##下载模型
+## 下载模型
 下载模型，模型名称如下，一些模型的预览可以访问[这里](https://huaji8.top/post/live2d-plugin-2.0/)
 `npm install live2d-widget-model-hibiki`
 
-##配置模型
+## 配置模型
 下载完之后，在Hexo根目录中新建文件夹live2d_models，然后在node_modules文件夹中找到刚刚下载的live2d模型，将其复制到live2d_models中，然后编辑配置文件中的model.use项，将其修改为live2d_models文件夹中的模型文件夹名称。
 然后重新发布博客即可。
 ![](https://raw.githubusercontent.com/zhengyuze/image/master/15482980967391.jpg?token=Acz5bHkCiZ6Nso0lm6rjjrP8BWatxnBaks5cSSnRwA%3D%3D)

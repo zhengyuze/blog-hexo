@@ -34,7 +34,7 @@ live2d:
 ## 配置模型
 下载完之后，在Hexo根目录中新建文件夹live2d_models，然后在node_modules文件夹中找到刚刚下载的live2d模型，将其复制到live2d_models中，然后编辑配置文件中的model.use项，将其修改为live2d_models文件夹中的模型文件夹名称。
 然后重新发布博客即可。
-![](https://raw.githubusercontent.com/zhengyuze/image/master/15482980967391.jpg?token=Acz5bHkCiZ6Nso0lm6rjjrP8BWatxnBaks5cSSnRwA%3D%3D)
+![](http://i2.bvimg.com/675628/0a37eb05d11ba53e.jpg)
 
 
 
@@ -44,9 +44,3 @@ live2d:
 
 [参考1:hexo 添加live2d看板动画](https://www.jianshu.com/p/3a6342e16e57)
 [参考2:掘金-在Hexo博客上添加可爱的Live 2D模型](https://juejin.im/post/5c35b01d6fb9a049ef26c488)
-
-
-
-
-
-

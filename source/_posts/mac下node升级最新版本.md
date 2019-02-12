@@ -40,5 +40,5 @@ categories: Node
    node -v
    npm -v
 ```
-[转自：http://www.qdfuns.com/notes/15571/f6aaae771d313f64ec4d1f7d09252426.html](http://www.jianshu.com/p/7006a663fb9f)
+[转自：MAC升级Nodejs和Npm到最新版](https://www.cnblogs.com/ae6623/p/6242423.html)
 

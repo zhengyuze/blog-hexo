@@ -34,7 +34,7 @@ live2d:
 ## 配置模型
 下载完之后，在Hexo根目录中新建文件夹live2d_models，然后在node_modules文件夹中找到刚刚下载的live2d模型，将其复制到live2d_models中，然后编辑配置文件中的model.use项，将其修改为live2d_models文件夹中的模型文件夹名称。
 然后重新发布博客即可。
-![](http://i2.bvimg.com/675628/0a37eb05d11ba53e.jpg)
+![](http://pmwkijiad.bkt.clouddn.com/1550125157913.jpg)
 
 
 
